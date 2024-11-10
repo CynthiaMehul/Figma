@@ -73,14 +73,8 @@ code for ss 4:
 
 ```
 ## OUTPUT:
-## SS 1:
-![alt text](<Screenshot 2024-04-27 230927.png>)
-## SS 2:
-![alt text](<Screenshot 2024-04-27 230954.png>)
-## SS 3:
-![alt text](<Screenshot 2024-04-27 231004.png>)
-## SS 4:
-![alt text](<Screenshot 2024-04-27 231021.png>)
+![image](https://github.com/user-attachments/assets/330ce63d-0c9d-4de1-9280-b520a295a623)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
